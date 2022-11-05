@@ -9,7 +9,7 @@
 
 - Major languages: Ruby, JavaScript
 - Frameworks: Ruaby On Rails
-- [Link to frontend pull request](https://github.com/YannickZahinda/Rails_React_Webpack/pull/2)
+- [Link to backend pull request](https://github.com/YannickZahinda/Rails_React_Webpack/pull/2)
 
 
 ## Live Demo (if available)
